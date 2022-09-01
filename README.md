@@ -6,6 +6,14 @@
 - 💬 Ask me about **Pytohn, Node, SQL, JavaScript**
 - 📫 How to reach me: valmirchagas@hotmail.com
 
+```js
+var booksFinished = 
+{
+  lastYear: [ "O caçador de Pipas", "O futuro da Humanidade", "Os segredos da mente milionária" ],
+  currentYear: [ Pai Rico Pai Pobre ]
+}	
+
+```
 
 ##
 <br />
@@ -32,6 +40,8 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 <br />
 <br />
