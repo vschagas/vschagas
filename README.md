@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend developer**
 - 🌱 I’m currently learning **Backend tools**
-- 💬 Ask me about **Pytohn, Node, SQL, JavaScript**
+- 💬 Ask me about **Python, Node, SQL, JavaScript**
 - 📫 How to reach me: valmirchagas@hotmail.com
 
 ```js
