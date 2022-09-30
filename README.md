@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 ## Hi there 👋, I'm Valmir
 
