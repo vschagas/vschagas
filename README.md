@@ -30,6 +30,10 @@ var booksFinished =
   <a href="https://github.com/vschagas/github-readme-stats"><img height="165em" alt="valmir chagas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vschagas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
 	</a>
 </div>
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vschagas&theme=react)](https://git.io/streak-stats) -->
+
+
 <br />
 <br />
 
