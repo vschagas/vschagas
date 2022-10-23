@@ -16,7 +16,7 @@
 var booksFinished = 
 {
   lastYear: [ "O caçador de Pipas", "O futuro da Humanidade", "Os segredos da mente milionária" ],
-  currentYear: [ Pai Rico Pai Pobre ]
+  currentYear: [ Seja Egoísta Com Sua Carreira ]
 }	
 
 ```
