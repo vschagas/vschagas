@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-## Hi there,👏🏼 I'm Valmir.
+## Hi there,👏🏼 I'm Valmir
 
 
 ### I'm a brazilian Full Stack Web Developer passionate about technologies!
