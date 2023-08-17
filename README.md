@@ -7,9 +7,9 @@
 <br />
 
 
-- 🔭 I’m currently working on **Frontend developer**
-- 🌱 I’m currently learning **Backend tools**
-- 💬 Ask me about **Python, Node, SQL, JavaScript**
+- 🔭 I’m currently working on **Backend developer**
+- 🌱 I’m currently learning **Cloud Architecture**
+- 💬 Ask me about **AWS, Node, SQL, Python**
 - 📫 How to reach me: valmirchagas@hotmail.com
 
 ```js
