@@ -1,7 +1,7 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"> -->
+<!-- ![dino](./gif/dino.gif) -->
+<img src="./gif/dino.gif" width="100%" />
 
 
-![dino](./gif/dino.gif)
 
 ## Hi there,👏🏼 I'm Valmir
 
