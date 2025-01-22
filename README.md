@@ -1,16 +1,38 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"> -->
+
+
+![dino](./gir/dino.gif)
 
 ## Hi there,👏🏼 I'm Valmir
 
-
+<!-- 
 ### I'm a brazilian Back-end web Developer passionate about technologies!
 <br />
 
 
-- 🔭 I’m currently working on **Backend developer**
-- 🌱 I’m currently learning **Cloud Architecture**
-- 💬 Ask me about **AWS, Node, SQL, Python**
-- 📫 How to reach me: valmirchagas@hotmail.com
+- 🔭 I’m currently working on **Data Engineer**
+- 🌱 I’m currently learning **Cloud Architecture** and **Kafka Confluent**
+- 💬 Ask me about **MongoDB, AWS, Python, Node, SQL**
+- 📫 How to reach me: vch.silva@outlook.com
+
+<br /> -->
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3>I'm a Brazilian Back-end Web Developer!</h3>
+    <p>
+      - 🔭 I’m currently working on <strong>Data Engineer</strong><br>
+      - 🌱 I’m currently learning <strong>Cloud Architecture</strong> and <strong>Kafka Confluent</strong><br>
+      - 💬 Ask me about <strong>MongoDB, AWS, Python, Node, SQL</strong><br>
+      - 📫 How to reach me: <a href="mailto:vch.silva@outlook.com">vch.silva@outlook.com</a>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" style="width: 300px; height: auto; border-radius: 8px;" />
+  </div>
+</div>
+
+<br />
 
 ```js
 var booksFinished = 
@@ -57,19 +79,19 @@ var booksFinished =
 <br />
 <div align="center">
 	
-## Would you like to find me?
+## 🔎 Would you like to find me?
 	
 <div align="center">
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/economiaparacrianca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!-- <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href="mailto:valmirchagas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=b"></a>
-  <a href="https://www.linkedin.com/in/vchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:vch.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=b"></a>
+  <a href="https://www.linkedin.com/in/valmirsc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.hackerrank.com/valmirchagas88" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
 </div>
 
 
-## ❤ Views and Followers
+## 🥰 Views and Followers
 <div align="center">
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 		<img src="https://komarev.com/ghpvc/?username=vschagas">
