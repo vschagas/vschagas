@@ -1,30 +1,20 @@
 <!-- ![dino](./gif/dino.gif) -->
-<img src="./gif/dino.gif" width="100%" />
+<img src="./gif/dino.gif" width="100%" style="border-radius: 8px" />
 
 
 
 ## Hi there,👏🏼 I'm Valmir
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Valmir+Chagas;I+am+Data+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
-<!-- 
-### I'm a brazilian Back-end web Developer passionate about technologies!
-<br />
-
-
-- 🔭 I’m currently working on **Data Engineer**
-- 🌱 I’m currently learning **Cloud Architecture** and **Kafka Confluent**
-- 💬 Ask me about **MongoDB, AWS, Python, Node, SQL**
-- 📫 How to reach me: vch.silva@outlook.com
-
-<br /> -->
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h3>I'm a Brazilian Back-end Web Developer!</h3>
     <p>
-      - 🔭 I’m currently working on <strong>Data Engineer</strong><br>
-      - 🌱 I’m currently learning <strong>Cloud Architecture</strong> and <strong>Kafka Confluent</strong><br>
-      - 💬 Ask me about <strong>MongoDB, AWS, Python, Node, SQL</strong><br>
-      - 📫 How to reach me: <a href="mailto:vch.silva@outlook.com">vch.silva@outlook.com</a>
+      🔭 I’m currently working on <strong>Data Engineering</strong><br>
+      🌱 I’m currently learning <strong>Cloud Architecture</strong> and <strong>Kafka Confluent</strong><br>
+      💬 Ask me about <strong>MongoDB, AWS, Python, Node, SQL</strong><br>
+      📫 How to reach me: <a href="mailto:vch.silva@outlook.com">vch.silva@outlook.com</a>
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
@@ -53,7 +43,7 @@ var booksFinished =
 	</a>
 </div>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vschagas&theme=react)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=vschagas&theme=react)](https://git.io/streak-stats) -->
 
 
 <br />
@@ -100,9 +90,8 @@ var booksFinished =
 </div> 
 </div>
 
-
-
-
-<!-- **Para utilizar modo tabela** | Languages  | Frameworks and Technologies | Tools |   
-|---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/JavaScript.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/testing-library.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/NPM.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/></div>|-->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusHoffman/MateusHoffman/output/github-contribution-grid-snake.svg">
+</picture> -->
